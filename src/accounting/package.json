@@ -1,0 +1,17 @@
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "description": "Node.js port of COBOL accounting system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
